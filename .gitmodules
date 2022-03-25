@@ -1,0 +1,3 @@
+[submodule "techpay-sfc"]
+	path = techpay-sfc
+	url = https://github.com/TechPay-io/techpay-sfc
